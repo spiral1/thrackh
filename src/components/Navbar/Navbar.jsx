@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 import { MenuItems } from "./MenuItems"
-import { ReactComponent as Logo } from "../../assets/logo.svg";
 import { ReactComponent as CloseMenu } from "../../assets/x.svg";
 import { ReactComponent as MenuIcon } from "../../assets/menu.svg";
 import './Navbar.css'
