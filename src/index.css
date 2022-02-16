@@ -5,6 +5,13 @@
                             'embedded-opentype', and 'svg' */
 }
 
+@font-face {
+  font-family: 'open-sans';
+  src: local('open-sans'), url(./assets/OpenSans-Regular.woff2) format('woff2');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+
 body {
   margin: 0;
   font-family: 'thrackh-font';
@@ -17,6 +24,6 @@ code {
     monospace;
 }
 
-h2{
-  
+p{
+  font-family: 'open-sans'
 }
