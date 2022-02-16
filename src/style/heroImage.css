@@ -5,12 +5,12 @@
 }
 
 .DHack-logo{
-    padding: 5rem
+    padding: 1rem
 }
 
 @media only screen and (max-width:800){
     .hero-image{
-
+        background:none;
         background-color: #fff;
     }
     

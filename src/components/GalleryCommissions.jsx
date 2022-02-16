@@ -1,12 +1,13 @@
 import React from 'react';
-import Gallery from 'react-photo-gallery';
+import Gallery from 'react-grid-gallery';
 
-export const GalleryCommissions = ({photos, title, direction}) => (
+const GalleryCommissions = ({images}) => (
       <div>
-        <h2>{title}</h2>
-        <Gallery photos={photos} direction={direction}/>
+        <h2>Commisions</h2>
+        <Gallery images={images}/>
       </div>
     );
 
+export default GalleryCommissions;
 
 
