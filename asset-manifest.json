@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/thrackh/static/css/main.bc47d688.css",
-    "main.js": "/thrackh/static/js/main.8be85126.js",
+    "main.css": "/thrackh/static/css/main.893ef97b.css",
+    "main.js": "/thrackh/static/js/main.86c27c9b.js",
     "static/js/787.219be3b7.chunk.js": "/thrackh/static/js/787.219be3b7.chunk.js",
+    "static/media/divider.jpg": "/thrackh/static/media/divider.edf6aec186b8cc1d5894.jpg",
     "static/media/bg.jpg": "/thrackh/static/media/bg.c5e0379516ec14e65dc4.jpg",
+    "static/media/divider-2.jpg": "/thrackh/static/media/divider-2.d3257226f7d213a033e2.jpg",
     "static/media/OpenSans-Regular.woff2": "/thrackh/static/media/OpenSans-Regular.ec97bfbf38dca9532cca.woff2",
     "static/media/logo.jpg": "/thrackh/static/media/logo.19fccc92999452f8ac39.jpg",
     "static/media/blair-itc-medium.woff2": "/thrackh/static/media/blair-itc-medium.452ff2b896326a041e06.woff2",
     "index.html": "/thrackh/index.html",
     "static/media/x.svg": "/thrackh/static/media/x.72ddccdd3ee4bc41802e95ca2cc5c5e3.svg",
     "static/media/menu.svg": "/thrackh/static/media/menu.64f5a02cbbfeb831c781c5bb370ba0bb.svg",
-    "main.bc47d688.css.map": "/thrackh/static/css/main.bc47d688.css.map",
-    "main.8be85126.js.map": "/thrackh/static/js/main.8be85126.js.map",
+    "main.893ef97b.css.map": "/thrackh/static/css/main.893ef97b.css.map",
+    "main.86c27c9b.js.map": "/thrackh/static/js/main.86c27c9b.js.map",
     "787.219be3b7.chunk.js.map": "/thrackh/static/js/787.219be3b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc47d688.css",
-    "static/js/main.8be85126.js"
+    "static/css/main.893ef97b.css",
+    "static/js/main.86c27c9b.js"
   ]
 }
