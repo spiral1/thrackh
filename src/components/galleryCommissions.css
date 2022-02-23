@@ -1,0 +1,11 @@
+.gallery{
+    width: 70%;
+    
+    margin: 100px auto;
+    
+    overflow: hidden;
+}
+
+.gallery h2{
+    padding:40px;
+}

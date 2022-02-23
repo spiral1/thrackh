@@ -1,7 +1,10 @@
 .hero-image{
     height: 100vh;
+    
     background: url(../assets/bg.jpg);
     background-size: cover;
+    z-index: 20;
+    
 }
 
 .DHack-logo{
